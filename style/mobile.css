@@ -49,13 +49,6 @@ body h3 {
     left: -300px;
     transition: all 0.25s;
 }
-.link input,label {
-    display: none;
-}
-
- .link label {
-        display: block;
-    }
 
 header div ul li {
     line-height: 50px;

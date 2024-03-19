@@ -39,6 +39,9 @@ body h1 {
     align-items: center;
     right: 0px;
 }
+.link input,label {
+    display: none;
+}
 
 .link ul {
     display: flex;
